@@ -4,7 +4,7 @@
 
 ### Question 
 
-My husband and I really like to travel internationally. We last traveled just before COVID, and I want to use linear regression to help us decide where and when to take our next international trip. I will use Selenium and Beautiful Soup to scrape data and then build a linear regression model to help us decide the most affordable choice for our trip. <br><br>
+My husband and I really like to travel internationally. We last traveled just before COVID, and I want to use linear regression to help us decide where and when to take our next international trip. I will use Selenium and Beautiful Soup to scrape data, and then build a linear regression model to help us decide the most affordable choice for our trip. <br><br>
 
 
 ### Data

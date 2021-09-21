@@ -1,7 +1,6 @@
 # Linear Regression Proposal
 #### Emily Ubbelohde
 <br>
-
 ### Question 
 
 My husband and I like to travel, we last traveled just before COVID and want to use linear regression to help us decide where and when to take our next international trip. I will use Selenium and Beautiful Soup to scrape data and then build a linear regression model to help us decide the most affordable choice for our trip. <br><br>

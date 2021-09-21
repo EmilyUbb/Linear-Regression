@@ -1,6 +1,6 @@
 # Linear Regression Proposal
 #### Emily Ubbelohde
-<br><br>
+<br>
 
 ### Question 
 

@@ -9,7 +9,7 @@ My husband and I really like to travel internationally. We last traveled just be
 
 ### Data
 
-Data will be gathered from the Kayak website using Selenium and Beautiful Soup. An individual sample of data will be one flight, and the features I plan to use are departure city (will limit to the three closest airports to me), arrival destination, date of travel, departure time, arrival time, total stops, additional information, airline, duration of trip, price of flight, and route (will help determine number of stops). The goal of my regression model will help me predict the price of flights. <br><br>
+Data will be gathered from the Kayak website using Selenium and Beautiful Soup. An individual sample of data will be one flight, and the features I plan to use are departure city (will limit to the three closest airports to me), arrival destination, date of travel, departure time, arrival time, total stops, additional information, airline, duration of trip, price of flight, and route (will help determine number of stops). The goal of my regression model will be to predict the price of flights. <br><br>
 
 ### MVP Goal
 

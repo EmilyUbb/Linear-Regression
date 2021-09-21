@@ -1,5 +1,5 @@
 # Linear Regression Proposal
-Emily Ubbelohde
+#### Emily Ubbelohde
 <br><br>
 
 ### Question 

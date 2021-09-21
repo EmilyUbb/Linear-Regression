@@ -4,7 +4,7 @@
 
 ### Question 
 
-My husband and I really like to travel internationally. We last traveled just before COVID, and I want to use linear regression to help us decide where and when to take our next international trip. <br><br>
+My husband and I really like to travel internationally. We last traveled just before COVID, and I want to use linear regression to help us decide where and when to take our next international trip, based on the most affordable flights. <br><br>
 
 
 ### Data

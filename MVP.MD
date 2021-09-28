@@ -9,6 +9,7 @@ This is my current model, with an R^^2 of 0.089
 I plan to work on getting my dates into a true date format next so I am able to add a feature of 'days to trip' which I think will be useful in my future models. I also plan on watching the timeserries lecture tonight to see what models I can use to incorporate the duration of the trip which is a time serries. 
 
 
-Below I have attached a visualization and the summary of my current model
+Below I have attached a visualization and the summary of my current model, as well as a pair plot with my values that are currently numerical.
 
 ![image.png](https://github.com/EmilyUbb/Linear-Regression/blob/main/Linear_Reg_MVP_Image.png?raw=true)
+![image.png](https://user-images.githubusercontent.com/87722700/135171119-47feb9a5-6a22-4442-a6d5-a3f038f49c57.png)

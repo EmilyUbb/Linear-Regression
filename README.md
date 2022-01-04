@@ -34,4 +34,4 @@ The entire training dataset into 90/10 train vs. holdout, and all scores reporte
    - Score: 0.18  
    
 ## Summary
-- This question cannot be answered by a linear model, this is the best model we could get using traditional regression, using time series would be my next steps.
+This question cannot be answered by a linear model, this is the best model we could get using traditional regression, using time series would be my next steps.

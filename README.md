@@ -34,4 +34,4 @@ The entire training dataset into 90/10 train vs. holdout, and all scores reporte
    - Score: 0.18  
    
 ## Summary
-- This question cannot be answered by a linear model, this is the best model we could get using traditional regression, using time series would be my next steps. If scraping data hadn't taken so long I like to think I would have gotten there. I would also apply the best model I got for this data set to a data set for a different destination to see how my results vary. 
+- This question cannot be answered by a linear model, this is the best model we could get using traditional regression, using time series would be my next steps.
